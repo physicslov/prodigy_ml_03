@@ -1,4 +1,4 @@
-Cat vs Dog Classifier
+<h1>Cat vs Dog Classifier</h1>
 This project is a machine learning model that classifies images of cats and dogs using a Support Vector Machine (SVM). The model has been trained on the Kaggle Dogs vs. Cats dataset, achieving an accuracy of 68.48%.
 
 Table of Contents
